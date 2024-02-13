@@ -10,6 +10,8 @@
     SA:MP Programming Comunnity©: https://abre.ai/samp-spc
 */
 
+#define FILTERSCRIPT
+//
 #include <a_samp>
 //
 main(){}
