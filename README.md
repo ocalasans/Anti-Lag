@@ -15,7 +15,7 @@ Você deve baixar o arquivo `Anti-Lag.amx`. Em seguida, copie esse arquivo para 
 
 ### Como funciona?
 
-Se um jogador atingir o ping definido em `ALI_MAX_PING`, receberá uma revisão com informações do `Anti-Lag` e, em seguida, será desconectado do servidor (`kick`). Após isso, uma mensagem global será enviada informando o ocorrido. Por padrão, `ALI_MAX_PING` está configurado com um máximo de `500`. Vocês, usuários, têm a opção de editar esse valor para maior ou menor, ajustar a mensagem global, modificar as informações exibidas antes do kick e, por último, adaptar esse Filterscript ao Gamemode de vocês.
+Se um jogador atingir o ping definido em `ALF_MAX_PING`, receberá uma revisão com informações do `Anti-Lag` e, em seguida, será desconectado do servidor (`kick`). Após isso, uma mensagem global será enviada informando o ocorrido. Por padrão, `ALF_MAX_PING` está configurado com um máximo de `500`. Vocês, usuários, têm a opção de editar esse valor para maior ou menor, ajustar a mensagem global, modificar as informações exibidas antes do kick e, por último, adaptar esse Filterscript ao Gamemode de vocês.
 
 -----------------------
 
